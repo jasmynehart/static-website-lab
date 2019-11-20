@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Merriweather|Noto+Sans|Roboto:400,700|Roboto+Slab|Rubik&display=swap');
+
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
@@ -5,8 +7,12 @@ html {
 
 
 h1 {
-  font-size: 60px;
+  font-family: 'Roboto';
+  font-size: 350%;
+  padding-left: 10px;
+  padding-right: 10px;
   text-align: center;
+  letter-spacing: 3px;
 }
 
 p, li {
